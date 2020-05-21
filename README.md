@@ -1,4 +1,4 @@
-# OpCon Wizards roundtable
+# OpCon Wizards roundtable examples
 This repository will house examples from the various OpCon Wizards roundtable sessions.  See the different folders for the specific examples from the various roundtables.
 
 # Prerequisites
