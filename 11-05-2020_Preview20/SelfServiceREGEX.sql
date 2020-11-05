@@ -1,3 +1,7 @@
+-- This script will display the names of buttons that use Regular Expressions
+-- for inputs.  This will help prepare for possible migrations in Release 20.
+
+-- OpCon DB Name
 USE OPCON
 
 SELECT REQ.[NAME]
